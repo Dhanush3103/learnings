@@ -1,7 +1,10 @@
 1. History of Linux
 * 1969: UNIX was developed by AT&T Bell Labs.
 
-* 1991: Linus Torvalds, a student from Finland, started developing a free OS kernel as a hobby.
+* 1991: Linus Torvalds, a student from Finland, 
+tarted developing a free OS kernel as a hobby.
+tarted developing a free OS kernel as a hobby.
+tarted developing a free OS kernel as a hobby.
 
 
 
